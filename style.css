@@ -144,6 +144,9 @@ body {
     width: 110px;
     background-color: hotpink;
 }
+.banner_btn span{
+    margin-right: 5px;
+}
 
 .banner_btn a {
     text-decoration: none;
